@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bazemore81
+- 👀 I’m interested in lots of things
+- 🌱 I’m currently learning data analytics, python, SQL, Github
+- 💞️ I’m looking to collaborate on Github
+- 📫 How to reach me bradbazemore@gmail.com or bb1386@mynsu.nova.edu
