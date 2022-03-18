@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @bazemore81
-- 👀 I’m interested in lots of things
-- 🌱 I’m currently learning data analytics, python, SQL, Github
-- 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me bradbazemore@gmail.com or bb1386@mynsu.nova.edu
+- 👀 I’m interested in career and personal development. I have many hobbies and enjoy family life to the fullest.
+- 🌱 I’m currently learning Salesforce Administration, data analytics, python, SQL. 
+- 📫 Reach me at bradbazemore@gmail.com or linkedin.com/in/bradleybazemore
